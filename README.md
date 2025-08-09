@@ -22,3 +22,4 @@ Industry Impact
 Democratizes AI Art — Affordable, accessible for startups and individual creators
 Cost-Efficient Scalability — No expensive GPU servers required
 Business Applications — Suitable for marketing, design prototyping, and e-commerce
+--------------------------------------------------------------------------
