@@ -1,5 +1,5 @@
 # AI Image Generator (CPU-Based) 
-----------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 # Tech Stack
 - Streamlit — Interactive and user-friendly web interface
