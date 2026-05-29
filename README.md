@@ -12,6 +12,7 @@
 - Real-time UI updates & progress bars — Seamless user experience
 ---------------------------------------------------------------------------
 
+
 # Advantages
 - GPU-Free Deployment — Runs entirely on CPU
 - Reproducible Results — Same input, same output every time
